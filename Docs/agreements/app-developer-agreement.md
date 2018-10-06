@@ -192,7 +192,7 @@ Sutikdami su šiomis sąlygomis jūs mums pareiškiate ir patvirtinate, kad turi
 
    f. **„Xbox Live“ paslaugos.** Jei pasirinksite savo Programėlėje įgalinti „Xbox Live“ paslaugą, savo Programėlę pateiksite per „Xbox“ sertifikavimo procesą, turėsite sutikti su sąlygomis ir strategijomis, susijusiomis su „Xbox Live“ paslauga, pasiekiama adresu <http://go.microsoft.com/fwlink/p/?LinkId=529963>, ir turėsite jų laikytis. Jūs suprantate, kad dėl „Xbox Live“ paslaugų jūsų Programėlė gali rinkti asmeninę informaciją.
 
-   g. **Iš ankstinis įdiegimas.** Jei jūs ir „Microsoft“ atskirai sutinkate iš anksto įdiegti vieną arba kelias jūsų Programėles „Microsoft“ produktuose (kaip apibrėžta Įrodymų dokumente D), jums bus taikomos šios Sutarties Įrodymų dokumente D išdėstytos sąlygos, su kuriomis turėsite sutikti.
+   g. **Išankstinis įdiegimas.** Jei jūs ir „Microsoft“ atskirai sutinkate iš anksto įdiegti vieną arba kelias jūsų Programėles „Microsoft“ produktuose (kaip apibrėžta Įrodymų dokumente D), jums bus taikomos šios Sutarties Įrodymų dokumente D išdėstytos sąlygos, su kuriomis turėsite sutikti.
 
    h. **Reklama.** Jei pasirenkate naudoti „Microsoft“ reklamos paslaugas, jums bus taikomos šios Sutarties Įrodymų dokumente E išdėstytos sąlygos, su kuriomis turėsite sutikti. Jei pasirinksite dalyvauti programėlės reklamavimo programoje (kaip apibrėžta Įrodymų dokumente F), jums bus taikomos šios Sutarties Įrodymų dokumente F išdėstytos sąlygos, su kuriomis turėsite sutikti.
 
